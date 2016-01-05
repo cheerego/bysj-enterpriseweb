@@ -1,0 +1,23 @@
+div.productclass_diy{
+	margin:0px;
+	padding:8px 0px 12px 2px;
+}
+
+div.productclass_diy a.productclass_diy:link,div.productclass_diy a.productclass_diy:visited,div.productclass_diy a.productclass_diy:active{
+	display:block;
+	text-decoration: none;
+	font:12px/30px Verdana, Arial, Helvetica, sans-serif;
+	height:27px;
+	text-align:left;
+	background:url(../images/dot2.jpg) 0px 0px no-repeat;
+	padding-left:46px;
+	margin:0px 0px 2px 0px;
+	color:#333;
+}
+
+div.productclass_diy a.productclass_diy:hover{
+	display:block;
+	color: #fff; 
+	text-decoration: none;
+	background:url(../images/dot2now.jpg) 0px 0px no-repeat;
+}

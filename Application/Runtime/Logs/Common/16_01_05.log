@@ -1,0 +1,858 @@
+[ 2016-01-05T12:25:54+08:00 ] ::1 /MyWebSite/Public/service/images/chk_error.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:25:54+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001441s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:25:54+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:25+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:27+08:00 ] ::1 /MyWebSite/Public/news/news_company_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:27+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:27+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:27+08:00 ] ::1 /MyWebSite/Public/news/news_company_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:28+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:28+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:29+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:31+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:32+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T12:26:36+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T13:59:47+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T13:59:47+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T13:59:48+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:00:46+08:00 ] ::1 /MyWebSite/Public/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:11:54+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:11:57+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:12:03+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:15:47+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:15:47+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:15:48+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:15:54+08:00 ] ::1 /MyWebSite/Public/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:26:35+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:26:35+08:00 ] ::1 /MyWebSite/Public/images/banzhu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:26:35+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001753s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:26:58+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:30:50+08:00 ] ::1 /MyWebSite/Public/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:35:15+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:35:15+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:35:15+08:00 ] ::1 /MyWebSite/Public/images/banzhu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:35:55+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:35:56+08:00 ] ::1 /MyWebSite/Public/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:37:38+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:37:38+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:37:43+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:37:43+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:37:43+08:00 ] ::1 /MyWebSite/Public/images/banzhu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:55:08+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002620s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:55:08+08:00 ] ::1 /MyWebSite/Public/images/banzhu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:55:08+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:55:23+08:00 ] ::1 /MyWebSite/Public/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:07+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:07+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:08+08:00 ] ::1 /MyWebSite/Public/service/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:08+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:08+08:00 ] ::1 /MyWebSite/Public/service/images/chk_error.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001489s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:08+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:09+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:09+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:09+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:10+08:00 ] ::1 /MyWebSite/Public/news/news_company_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:10+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:10+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:11+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:15+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T14:56:18+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:25:58+08:00 ] ::1 /MyWebSite/product/html/?7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Product
+
+[ 2016-01-05T15:39:45+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:39:45+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:39:45+08:00 ] ::1 /MyWebSite/Public/images/banzhu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:43:23+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:45:13+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:45:15+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:45:27+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:45:44+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:47:26+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:47:28+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:47:31+08:00 ] ::1 /MyWebSite/Public/index_files/images/title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:47:32+08:00 ] ::1 /MyWebSite/Public/index_files/images/title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:47:37+08:00 ] ::1 /MyWebSite/Public/index_files/images/title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:49:08+08:00 ] ::1 /MyWebSite/Public/index_files/images/title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:53:32+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:53:35+08:00 ] ::1 /MyWebSite/Public/index_files/images/title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:54:06+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:56:54+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:57:00+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:58:57+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:58:57+08:00 ] ::1 /MyWebSite/Public/service/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:58:57+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:58:57+08:00 ] ::1 /MyWebSite/Public/service/images/chk_error.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T15:59:59+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:03:04+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:03:04+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:03:06+08:00 ] ::1 /MyWebSite/Public/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:37+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:38+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:41+08:00 ] ::1 /MyWebSite/Public/index_files/images/title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:43+08:00 ] ::1 /MyWebSite/Public/news/news_company_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:43+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:43+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:43+08:00 ] ::1 /MyWebSite/Public/news/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:45+08:00 ] ::1 /MyWebSite/Public/news/news_projects_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:45+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:45+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:45+08:00 ] ::1 /MyWebSite/Public/news/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:46+08:00 ] ::1 /MyWebSite/Public/news/news_media_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:46+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:46+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:46+08:00 ] ::1 /MyWebSite/Public/news/news_media_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:47+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:47+08:00 ] ::1 /MyWebSite/Public/service/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:47+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:47+08:00 ] ::1 /MyWebSite/Public/service/images/chk_error.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:47+08:00 ] ::1 /MyWebSite/Public/service/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:48+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:49+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:49+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:50+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:50+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:50+08:00 ] ::1 /MyWebSite/Public/images/banzhu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:55+08:00 ] ::1 /MyWebSite/Public/projectInfo_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:55+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:55+08:00 ] ::1 /MyWebSite/Public/images/banzhu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:06:59+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:07:00+08:00 ] ::1 /MyWebSite/Public/news/news_company_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:07:00+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:07:00+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:12:18+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:12:18+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:12:18+08:00 ] ::1 /MyWebSite/Public/service/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001303s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:12:18+08:00 ] ::1 /MyWebSite/Public/service/images/chk_error.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:39+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:41+08:00 ] ::1 /MyWebSite/Public/index_files/images/title.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:41+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:42+08:00 ] ::1 /MyWebSite/Public/news/news_company_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:42+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:42+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:43+08:00 ] ::1 /MyWebSite/Public/news/news_company_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:43+08:00 ] ::1 /MyWebSite/Public/news/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002609s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:44+08:00 ] ::1 /MyWebSite/Public/news/images/line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:44+08:00 ] ::1 /MyWebSite/Public/news/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:45+08:00 ] ::1 /MyWebSite/Public/news/news_media_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:45+08:00 ] ::1 /MyWebSite/Public/news/images/dot2now.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:46+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:46+08:00 ] ::1 /MyWebSite/Public/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:48+08:00 ] ::1 /MyWebSite/Public/project_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:48+08:00 ] ::1 /MyWebSite/Public/service/feedback_files/menu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:48+08:00 ] ::1 /MyWebSite/Public/service/images/dot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:48+08:00 ] ::1 /MyWebSite/Public//MyWebSite/Public/base/border/786/images/title.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-05T16:41:48+08:00 ] ::1 /MyWebSite/Public/service/images/chk_error.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+ERR: 无法加载模块:Public
+

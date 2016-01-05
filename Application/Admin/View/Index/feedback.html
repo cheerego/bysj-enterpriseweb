@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="__PUBLIC__/bootstrap/bootstrap.min.css">
+    <script src="__PUBLIC__/bootstrap/jquery.min.js"></script>
+    <script src="__PUBLIC__/bootstrap/bootstrap.min.js"></script>
+</head>
+<body>
+<table class="table table-hover">
+    <thead>
+    <tr>
+        <th>编号</th>
+        <th>标题</th>
+        <th>内容</th>
+        <th>时间</th>
+        <th>操作</th>
+    </tr>
+    </thead>
+    <tbody>
+    <foreach name="feedbackres" item="v">
+        <tr>
+            <td>{$v.id}</td>
+            <td>{$v.title}</td>
+            <td>{$v.content}</td>
+            <td>{$v.datetime}</td>
+            <td><!-- 按钮触发模态框 -->
+                <a href="javascript:void(0);" data-toggle="modal" data-target="#myModal{$v.id}">
+                    查看
+                </a>
+                <a href="{$v.url_d}">删除</a>
+
+                <!-- 模态框（Modal） -->
+                <div class="modal fade" id="myModal{$v.id}" tabindex="-1" role="dialog"
+                     aria-labelledby="myModalLabel{$v.id}" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close"
+                                        data-dismiss="modal" aria-hidden="true">
+                                    &times;
+                                </button>
+                                <h6 class="modal-title" id="myModalLabel{$v.id}">
+                                    <p>Address：{$v.address}</p>
+                                    <p>Date：{$v.datetime}</p>
+                                    <p>Contact：{$v.contact}</p>
+                                </h6>
+                            </div>
+                            <div class="modal-body">
+                                <h5>{$v.content}</h5>
+
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default"
+                                        data-dismiss="modal">关闭
+                                </button>
+                            </div>
+                        </div><!-- /.modal-content -->
+                    </div><!-- /.modal -->
+                </div>
+            </td>
+        </tr>
+    </foreach>
+    </tbody>
+
+</table>
+<div style="text-align: center">{$page}</div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+/* ============ндубап╠М============== */
+
+ul.newslist_cyrano{
+	float:left;
+	margin:0px;
+	padding:12px 0px 0px 0px;
+}
+
+li.newslist_cyrano{
+	margin:0px;
+	padding-left:0px;
+	list-style-type: none;
+	height:29px;
+	background:url(listt.jpg) 0px 0px no-repeat;
+}
+
+li.newslist_cyrano .time{
+	float:right;
+	font:10px/22px Arial, Helvetica, sans-serif;
+	color:#666;
+	padding:0px;
+}
+
+a.newslist_cyrano:link,a.newslist_cyrano:visited,a.newslist_cyrano:active{
+	color:#000;
+	text-decoration: none;
+	font:12px/23px Verdana, Arial, Helvetica, sans-serif;
+	padding-left:11px;
+}
+
+a.newslist_cyrano:hover{
+	color: #ff0000; 
+	font:12px/23px Verdana, Arial, Helvetica, sans-serif;
+}
+

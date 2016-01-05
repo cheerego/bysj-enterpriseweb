@@ -1,0 +1,23 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js"></script>
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div style="width: 20%;margin: 10% auto;border:1px solid darkgray;overflow: hidden;padding: 20px">
+    <form action="<?php echo U('Login/checklogin');?>" method="post">
+        用户名：
+        <br/>
+        <input class="form-control" type="text" name="username" required>
+        密码：
+        <br/>
+        <input class="form-control" type="password" name="password" required>
+        <input class="btn btn-success" type="submit" value="登录" style="float: right;margin-top: 5px">
+    </form>
+</div>
+</body>
+</html>
