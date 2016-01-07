@@ -212,7 +212,7 @@ class IndexController extends Controller
         for ($i = 0; $i < sizeof($res); $i++) {
             $res[$i]['content'] = mb_substr($res[$i]['content'], 0, 15);
             $res[$i]['url_d'] = U('Index/newsdelete', array('id' => $res[$i]['id']));
-            $res[$i]['url_u'] = U('Index/newseditor', array('id' => 1));
+            $res[$i]['url_u'] = U('Index/newseditor', array('id' => $res[$i]['id']));
         }
         $this->assign('news', $res);
         $this->display();
