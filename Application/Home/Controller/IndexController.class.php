@@ -10,6 +10,8 @@ class IndexController extends Controller
         $res = M('news')->field(array('id','title','datetime'))->order('datetime desc')->limit(5)->select();
         for ($i=0;$i<sizeof($res);$i++) {
             $res[$i]['url'] = U('News/newsinfo',array('id'=>$res[$i]['id']));
+            preg_match_all('/(\d{4}\-)(\d{2}\-\d{2})/',$res[$i]['datetime'],$match);
+            $res[$i]['datetime'] = $match[2][0];
         }
         $this->assign('news', $res);
         //项目新闻
